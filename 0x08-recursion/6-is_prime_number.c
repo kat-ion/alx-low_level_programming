@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * prime_found - found prime number
  * @i: dividend
